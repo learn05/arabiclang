@@ -9,7 +9,7 @@ also every PHP developer can get an adantage and easy to use to this library to 
 <ol>
   <li>Create a Folder inside App Called Library.</li>
   
-  <li>Upload the Repo to the Library Folder.</li>
+  <li>Upload the "I18N" to the Library Folder.</li>
   
   <li>Open the text.php file, that is located in:<br>
     <code>\vendor\dompdf\dompdf\src\Renderer</code>
