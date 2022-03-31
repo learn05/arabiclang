@@ -33,7 +33,7 @@ also every PHP developer can get an adantage and easy to use to this library to 
   
 </ol>
 <h4>Original Code at this link <a href="https://sourceforge.net/projects/ar-php/">Click Me</a></h4>
-<h4>this Code is Credited to <b>"Dominique Abou Samah"</b>, Thanks to him</h4>
+<h4>this Code is Credited to <b>"khaled.alshamaa" for the ar-php library</b> and <b>"Dominique Abou Samah"</b>for the answer in StackOverFlow, many Thanks to them</h4>
 <p>URL of the Original Answer is <a href="https://stackoverflow.com/questions/67462233/laravel-dompdf-arabic-characters-generate-pdf-error">Click Here</><p>
 
 
